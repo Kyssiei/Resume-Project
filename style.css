@@ -1,0 +1,207 @@
+body{
+    background-image:url(https://i.pinimg.com/736x/b8/f9/16/b8f9167f0d10b48869c1a74d369c7331.jpg);
+}
+.mainContainer{ 
+  height: px;
+  width: 1750px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap;
+}
+#intro{
+    height:400px ;
+    width: 1600px ;
+    background-color: pink;
+    border: 3px solid rgb(255, 133, 194);
+    border-radius: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    height: 400px;
+    width: 400px;
+    margin-top: auto;
+}
+#introduction{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+}
+    
+.playwrite-tz-guides-regular{
+        font-family: "Playwrite TZ Guides", serif;
+        /* font-weight: 1000; */
+        font-style: normal;
+      }
+h1{
+    height: 100px;
+    width: 1000px;
+    text-align: center;
+    font-family: "Playwrite TZ Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px; 
+    color: rgb(255, 255, 255);
+}
+h2{
+    text-align: center;
+    color:white
+}
+h3{
+    text-align: left;
+    padding-left: 20px;
+    color: white;
+    font-weight: 300px;
+    padding-bottom: 0%;
+}
+p{
+    color: black;
+    text-align: center;
+    padding-top: ;
+}
+
+
+      
+
+#contents{
+    height:800px ;
+    width: 1600px ;
+    /* background-color: pink;
+    border: 3px solid rgb(255, 133, 194);
+    border-radius: 25px; */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#section1{
+    height:800px ;
+    width: 450px;
+    background-color: pink;
+    border: 3px solid rgb(255, 133, 194);
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+}
+#section2{
+    height:800px ;
+    width: 1100px;
+    /* background-color: pink;
+    border: 3px solid rgb(255, 133, 194);;
+    border-radius: 25px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+
+    
+}
+#experience{
+    height:500px ;
+    width: 1100px;
+    background-color: pink;
+    border: 3px solid rgb(255, 133, 194);;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#techSkills{
+    height:265px ;
+    width: 1100px;
+    background-color: pink;
+    border: 3px solid rgb(255, 133, 194);;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+
+}
+.shrikhand-regular {
+    font-family: "Shrikhand", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+    
+  }
+
+
+h2{
+    text-align: center;
+}
+  
+#life{
+    text-align: left;
+    padding-left: 20px;
+}
+li{
+    text-align: center;
+}
+p.bold{
+    /* font-style: oblique; */
+    font-weight: 400px;
+}
+
+
+/* #experience{
+    height: 900px;
+    width: 1355px;
+    background-color: pink;
+    border: 3px solid rgb(255, 133, 194);
+    border-radius: 25px;
+    justify-content: space-between;
+    /* display: flex; */
+    /* margin-left: auto;
+    
+    flex-wrap: wrap; 
+    align-self: center;
+    vertical-align: top;  */ 
+   
+    
+}
+/* #techSkills{
+    height: 350px;
+    width: 1355px;
+    background-color: pink;
+    border: 3px solid rgb(255, 133, 194);
+    border-radius: 25px;
+    margin-left: auto; */
+   
+   
+    
+    
+
+}
+/* #softSkills{
+    height: 900px;
+    width: 500px;
+    background-color: pink;
+    border: 3px solid rgb(255, 133, 194);
+    border-radius: 25px;
+    display: flex;
+    margin-right: auto;
+    display: inline-block;
+    /* justify-content: space-around;
+    flex-wrap: wrap;
+    display: inline-block; */ */
+}
+/* .boxes{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.container{
+    display: flex;
+    justify-content: ;
+    align-items: center;
+    flex-wrap: wrap;
+} */
